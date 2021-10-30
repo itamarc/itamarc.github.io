@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Who I am
 
-You can use the [editor on GitHub](https://github.com/itamarc/itamarc.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Someone that since a long time love technology. I learned to program with BASIC in 1985, when I was 12 years old and never stopped learning about everything related with computers, specially software. Now I have a BS in CS and a MSc in *Computer Forensic and Information Security* and I still love to learn new things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Highlighted Projects
 
-### Markdown
+Below you can find some of the open source projects I developped and that are available in repositories here at GitHub.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## ITemplate
 
-```markdown
-Syntax highlighted code block
+ITemplate is a Java library to fill text templates with variable content.
 
-# Header 1
-## Header 2
-### Header 3
+Purely in Java.
 
-- Bulleted
-- List
+## action-itemplate-ghpages
 
-1. Numbered
-2. List
+Action to publish GitHub Pages for a repository automatically using themes or custom templates (using ITemplate).
 
-**Bold** and _Italic_ and `Code` text
+Made with Java, Docker, some bash, git, HTML, CSS and JavaScript.
 
-[Link](url) and ![Image](src)
-```
+The pages of my repositories are made with it, using the pre-build themes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## DirSynch
 
-### Jekyll Themes
+DirSynch is a tool to synchronize directory contents.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/itamarc/itamarc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+It's made with Java and Swing and even support comparing files with the hash values of their content.
 
-### Support or Contact
+## Hangman
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It's a very simple hangman game I created to show my daughters a little bit of what it's like to create a web app.
+
+It uses only HTML, CSS, JavaScript and SVG.
+
+## Jobs Data Dashboard
+
+⚠️ This project is a work in progress!
+
+My personal project to create a system with various technologies, just for knowledge. A job seeker system to grab data from several sources, compile them and shows it in graphical ways.
+
+I'm using different technologies and tools in each part of this system, to be able to learn more.
+
+There are some documentation of what I plan to build and some parts are already made.
+
+So far, I used Python, MongoDB, a REST API, a Lambda Function made in Java and AWS SQS. The JDD Grabber runs in an AWS EC2 machine with Linux.
+
+## Mogno
+
+Mogno Lib for web applications development.
+
+## Mogno-Studio
+
+Mogno Studio, an environment to visually build an application with Mogno lib.
