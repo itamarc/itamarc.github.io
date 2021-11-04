@@ -2,6 +2,13 @@
 
 Someone that since a long time love technology. I learned to program with BASIC in 1985, when I was 12 years old and never stopped learning about everything related with computers, specially software. Now I have a BS in CS and a MSc in *Computer Forensic and Information Security* and I still love to learn new things.
 
+<a href="https://github.com/itamarc" alt="github" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/itamarc" alt="linkedin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
 # Highlighted Projects
 
 Below you can find some of the open source projects I developped and that are available in repositories here at GitHub.
