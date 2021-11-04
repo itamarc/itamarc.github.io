@@ -12,6 +12,8 @@ ITemplate is a Java library to fill text templates with variable content.
 
 Purely in Java.
 
+https://itamarc.github.io/itemplate/
+
 ## action-itemplate-ghpages
 
 Action to publish GitHub Pages for a repository automatically using themes or custom templates (using ITemplate).
@@ -36,8 +38,21 @@ It's a very simple hangman game I created to show my daughters a little bit of w
 
 It uses only HTML, CSS, JavaScript and SVG.
 
-To access it:
+To access the game:
 https://itamarc.github.io/hangman/
+
+To see the source:
+https://github.com/itamarc/hangman
+
+## Hangman - React Edition
+
+While learning React, I re-created the Hangman game using ReactJS.
+
+To access the game:
+https://itamarc.github.io/hangman-react/
+
+To see the source:
+https://github.com/itamarc/hangman-react
 
 ## Jobs Data Dashboard
 
@@ -57,7 +72,7 @@ You can check the docs repository at https://itamarc.github.io/JobsDataDashboard
 
 ## Mogno
 
-Mogno Lib for web applications development in Java.
+Mogno Lib for web applications development in Java (a project from a long time ago).
 
 https://github.com/itamarc/mogno
 
