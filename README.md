@@ -12,7 +12,7 @@ ITemplate is a Java library to fill text templates with variable content.
 
 Purely in Java.
 
-https://itamarc.github.io/itemplate/
+[https://itamarc.github.io/itemplate/](https://itamarc.github.io/itemplate/)
 
 ## action-itemplate-ghpages
 
@@ -22,7 +22,7 @@ Made with Java, Docker, some bash, git, HTML, CSS and JavaScript.
 
 The pages of my repositories are made with it, using the pre-build themes.
 
-https://itamarc.github.io/action-itemplate-ghpages/
+[https://itamarc.github.io/action-itemplate-ghpages/](https://itamarc.github.io/action-itemplate-ghpages/)
 
 ## DirSynch
 
@@ -30,7 +30,7 @@ DirSynch is a tool to synchronize directory contents.
 
 It's made with Java and Swing and even support comparing files with the hash values of their content.
 
-https://itamarc.github.io/dirsynch/
+[https://itamarc.github.io/dirsynch/](https://itamarc.github.io/dirsynch/)
 
 ## Hangman
 
@@ -39,20 +39,24 @@ It's a very simple hangman game I created to show my daughters a little bit of w
 It uses only HTML, CSS, JavaScript and SVG.
 
 To access the game:
-https://itamarc.github.io/hangman/
+
+- [https://itamarc.github.io/hangman/](https://itamarc.github.io/hangman/)
 
 To see the source:
-https://github.com/itamarc/hangman
+
+- [https://github.com/itamarc/hangman](https://github.com/itamarc/hangman)
 
 ## Hangman - React Edition
 
 While learning React, I re-created the Hangman game using ReactJS.
 
 To access the game:
-https://itamarc.github.io/hangman-react/
+
+- [https://itamarc.github.io/hangman-react/](https://itamarc.github.io/hangman-react/)
 
 To see the source:
-https://github.com/itamarc/hangman-react
+
+- [https://github.com/itamarc/hangman-react](https://github.com/itamarc/hangman-react)
 
 ## Jobs Data Dashboard
 
@@ -66,7 +70,7 @@ There are some documentation of what I plan to build and some parts are already 
 
 So far, I used Python, MongoDB, a REST API, a Lambda Function made in Java and AWS SQS. The JDD Grabber runs in an AWS EC2 machine with Linux.
 
-You can check the docs repository at https://itamarc.github.io/JobsDataDashboard/
+You can check the docs repository at [https://itamarc.github.io/JobsDataDashboard/](https://itamarc.github.io/JobsDataDashboard/)
 
 (See the README for details about the project)
 
@@ -74,10 +78,10 @@ You can check the docs repository at https://itamarc.github.io/JobsDataDashboard
 
 Mogno Lib for web applications development in Java (a project from a long time ago).
 
-https://github.com/itamarc/mogno
+[https://github.com/itamarc/mogno](https://github.com/itamarc/mogno)
 
 ## Mogno-Studio
 
 Mogno Studio, an environment to visually build an application with Mogno lib.
 
-https://github.com/itamarc/mogno-studio
+[https://github.com/itamarc/mogno-studio](https://github.com/itamarc/mogno-studio)
