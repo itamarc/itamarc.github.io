@@ -42,7 +42,6 @@ Purely in Java.
 
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github_pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Action to publish GitHub Pages for a repository automatically using themes or custom templates (using ITemplate).
 
