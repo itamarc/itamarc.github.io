@@ -25,6 +25,10 @@ Purely in Java.
 
 - [https://itamarc.github.io/itemplate/](https://itamarc.github.io/itemplate/)
 
+Available in Maven Central repository:
+
+- [![Maven Central](https://img.shields.io/maven-central/v/io.github.itamarc/itemplate.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22io.github.itamarc%22%20AND%20a:%22itemplate%22)
+
 ## action-itemplate-ghpages
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
